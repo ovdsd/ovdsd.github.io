@@ -12,7 +12,7 @@ export default withSentryConfig(
       // Suppresses source map uploading logs during build
       silent: true,
       org: "universitas-padjadjaran-zh",
-      project: "universitas-padjadjaran-zh",
+      project: "javascript-nextjs",
     },
     {
       // For all available options, see:
