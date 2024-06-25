@@ -119,14 +119,14 @@ export const testimonials = [
       "Collaborating with Is'ad was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Is'ad's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website API, Is'ad is the ideal partner.",
     name: "Kent Bryant",
     title: "Head Developer of GoFruit.id",
-    img: "https://cdn.discordapp.com/attachments/961820020302815292/1254809405967437946/image.png?ex=667ad7d3&is=66798653&hm=032c3576c57ddcb8fe7f6db606889a97c3c1f0ebba1830efef9042e160834e6e&",
+    img: "/bry.png",
   },
   {
     quote:
       "Best Game Developer. His professionalism and dedication to our game was epic and the results were amazing. If you're searching game developer for your game, Is'ad gonna be your best choice.",
     name: "Ali Assegaf",
     title: "Director of Garuda Indonesia Roblox",
-    img: "https://cdn.discordapp.com/attachments/961820020302815292/1254810500362145833/image.png?ex=667ad8d8&is=66798758&hm=8bc887e8669ec51b74484be7c29fb077e2a0a28016453da6b3be6f190dcef753&",
+    img: "/ali.png",
   },
   // {
   //   quote:
